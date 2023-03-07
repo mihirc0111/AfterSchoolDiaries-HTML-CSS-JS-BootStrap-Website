@@ -17,11 +17,16 @@ Using HTML,CSS,JS,Bootstrap to bundle the songs we loved during our childhood!
 ### Difficultes Faced----------->-Solutions are welcomed on my gmail (mihirc0111@gmail.com)/on github. 
 
 1. Unable to add keydown function to the button"Stop"
+
 2. Unable to add 6 images in the carousel of bootstrap
-3.Unable to align the divs inside container to centre properly..did some shortcut effects like adding margin
+
+3.Unable to align the divs inside container to centre properly,did a hack like adding margin
+
 4.Unable to make a function which stops the already playing video and starts the next video which is clicked,so i had to make a stop button for it.
+
 5.If stop button is not clicked, multiples sound play simultaneously
-6. Unable to make width of images 100%..some gap is left between division(div) and image
+
+6. Unable to make width of images 100%..some gap is left between division(div) and image.
 
 ### Continued development
 
