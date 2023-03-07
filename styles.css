@@ -1,0 +1,121 @@
+body {
+  text-align: center;
+  background-color: #283149;
+  
+}
+
+h1 {
+  font-size: 5rem;
+  color: gold;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+h2{
+  color:rgb(255, 0, 0);
+}
+
+img{
+  width: 100%;
+  height: 250px;
+  
+}
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+/* .set {
+  margin: 10% auto;
+} */
+
+/* .game-over {
+  background-color: red;
+  opacity: 0.8;
+} */
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+/* .red {
+  color: red;
+} */
+
+.imageslot {
+  
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  /* width: 150px;
+  height: 150px; */
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  width: 40%;
+  height: 40%;
+}
+.carousel{
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+/* .dice {
+  text-align: center;
+  display: inline-block;
+} */
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+#big{
+  font-size: 3rem;
+  color:  #DBEDF3;
+}
+.esc {
+  background-image: url("images/stop.png");
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: darkred;
+  font-weight:bold;
+  background-color: tomato;
+  
+  width:150px;
+  height:50px;
+  font-size: 1rem;
+  display: inline-block;
+  
+}
+
+.carousel-control-prev-icon {
+  margin-left: -140px;
+}
+
+.carousel-control-next-icon {
+  margin-right: 0px;
+}
+
